@@ -1,0 +1,5 @@
+train: /home/zullich/Documents/solar/solar_cell_EL_image_original_DS/PVELAD/EL2021/data_proper/images/train
+val: /home/zullich/Documents/solar/solar_cell_EL_image_original_DS/PVELAD/EL2021/data_proper/images/val
+is_coco: False
+nc: 12
+names: ["crack", "finger", "black_core", "thick_line", "star_crack", "corner", "fragment", "scratch", "horizontal_dislocation", "vertical_dislocation", "printing_error", "short_circuit"]
